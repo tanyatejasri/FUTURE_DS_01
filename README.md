@@ -26,6 +26,10 @@ Category filter (Technology, Furniture, Office Supplies)
 Microsoft Excel
 Data Cleaning & Transformation
 Charts & Dashboard Design
+
+
+
+
 Task 2:
 🚀 Customer Retention & Churn Analysis Dashboard – Task 2 Completed
 
@@ -54,6 +58,7 @@ Power BI | Data Analytics | Data Visualization
 This project strengthened my ability to transform raw data into actionable insights and build impactful dashboards.
 
 #PowerBI #DataAnalytics #ChurnAnalysis #Dashboard #DataScience #BusinessIntelligence #AnalyticsProject
+
 
 
 Task 3:
